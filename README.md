@@ -4,3 +4,5 @@ Project collaborators are students of Università della Svizzera Italiana: <b>Ma
 <br><br>
 To access server, please contact rolands.repetto@usi.ch. <br> <br>
 To access app, go to https://alessandro-fosselards-team.adalo.com/finstatement and sign up.
+
+<b>API</b> kezs that make app functioning, have been removed due to security.
