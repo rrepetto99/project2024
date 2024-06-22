@@ -1,6 +1,6 @@
 
 #1st product
-API_KEY = "a110b9e7c6032058246c134ed9846126513d7c546d6fb237e8af08517eca8ee7"
+#API_KEY hidden
 from sec_api import XbrlApi
 xbrlApi = XbrlApi(API_KEY)
 from sec_edgar_downloader import Downloader as SecEdgarDownloader
@@ -107,7 +107,7 @@ def my_route():
 
 #2nd product
 
-API_KEY = "a110b9e7c6032058246c134ed9846126513d7c546d6fb237e8af08517eca8ee7"
+#API_KEY hidden
 
 def pprint(text, line_length=100):
     words = text.split(' ')
@@ -183,10 +183,7 @@ def ask_llm():
     text_documents = loader.load()
     text_documents  
     
-
-    # Define your API Key
-    api_key = "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"
-
+        #API_KEY hidden
     # Define the path to the .env file
     env_file_path = './.env'
 
