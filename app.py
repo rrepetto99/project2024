@@ -185,7 +185,7 @@ def ask_llm():
     
 
     # Define your API Key
-    api_key = "sk-proj-KD7nY1hcMdpWfFzrC44QT3BlbkFJKWTnnfZnwEjOF2dv2HLB"
+    api_key = "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"
 
     # Define the path to the .env file
     env_file_path = './.env'
